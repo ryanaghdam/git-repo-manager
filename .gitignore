@@ -1,0 +1,4 @@
+.*.py.swap
+.*.py~
+*.pyc
+*.pyo
