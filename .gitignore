@@ -1,4 +1,2 @@
-.*.py.swap
-.*.py~
-*.pyc
-*.pyo
+*.py[c|o|~|.swap]
+*/*.py[c|o|~|.swap]
